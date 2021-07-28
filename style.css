@@ -1,0 +1,18 @@
+table, th,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 40%;
+  font-family: 'Open Sans', sans-serif;
+  padding: 5px;
+}
+#Orange {
+  background: orange;
+}
+
+#Blue {
+  background: #1e66d9;
+}
+
+#Green {
+  background: #27c416;
+}
